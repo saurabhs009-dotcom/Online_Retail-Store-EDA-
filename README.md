@@ -63,21 +63,3 @@ This project performs an end-to-end **Exploratory Data Analysis (EDA)** on the U
 
 ---
 
-## 🚀 How to Run
-
-```bash
-# Clone the repository
-git clone https://github.com/saurabhs009-dotcom/online_retail-eda.git
-
-# Install dependencies
-pip install pandas numpy matplotlib seaborn openpyxl
-
-# Open the notebook
-jupyter notebook online_retail_store_EDA.ipynb
-```
-
-> ⚠️ You need the `online retail.xlsx` dataset file in the same folder. Download it from the [UCI Repository](https://archive.ics.uci.edu/ml/datasets/Online+Retail).
-
----
-
-*📧 Connect with me on [LinkedIn](https://linkedin.com/in/yourprofile) | Built as part of my Data Analytics portfolio*
